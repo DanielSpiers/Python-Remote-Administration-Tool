@@ -32,6 +32,9 @@ When the client connects:
 * Device information is shown
 * Commands can be issued through Discord messages
 * Responses are sent back into the channel
+
+The following tutorial assumes you have a good understanding of python and can create a discrod bot and server.
+
 ---
 
 # Screenshots
@@ -66,7 +69,7 @@ This project includes many more features which arent listsed here.
 # Project Structure
 
 ```text
-project-folder/
+Python-Remote-Administration-Tool-main
 │
 ├── Client.py - ran on target device
 ├── Server.py - ran on server 
